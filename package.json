@@ -16,5 +16,6 @@
   "bugs": {
     "url": "https://github.com/hcuffy/bar-graph-D3/issues"
   },
-  "homepage": "https://github.com/hcuffy/bar-graph-D3#readme"
+  "homepage": "https://github.com/hcuffy/bar-graph-D3#readme",
+  "devDependencies": {}
 }
