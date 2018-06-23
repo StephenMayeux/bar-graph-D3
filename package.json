@@ -5,7 +5,7 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "nodemon server.js"
   },
   "repository": {
     "type": "git",
@@ -17,5 +17,8 @@
     "url": "https://github.com/hcuffy/bar-graph-D3/issues"
   },
   "homepage": "https://github.com/hcuffy/bar-graph-D3#readme",
-  "devDependencies": {}
+  "devDependencies": {},
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
